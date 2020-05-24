@@ -1,0 +1,11 @@
+===================================
+Configuration Memory information
+===================================
+File Format        BIN
+Interface          SMAPX32
+Size               512K
+Start Address      0x00000000
+End Address        0x0007FFFF
+
+Addr1         Addr2         Date                    File(s)
+0x00000000    0x000741A3    May 24 22:11:24 2020    ./bitstreams/config2/config2_pblock_conv_partial.bit
